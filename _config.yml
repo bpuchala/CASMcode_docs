@@ -13,8 +13,6 @@ kramdown:
 teaser: /assets/images/logo.png
 logo: /assets/images/small_logo.png
 favicon: /assets/favicon.ico
-github:
-  repository_url: "https://github.com/prisms-center/CASMcode"
 
 plugins:
   - jekyll-relative-links
