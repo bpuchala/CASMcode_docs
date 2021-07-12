@@ -10,11 +10,11 @@ minimal_mistakes_skin: "default"
 markdown: kramdown
 kramdown:
   parse_block_html: true
-# teaser: /assets/images/logo.png
-# logo: /assets/images/small_logo.png
-# favicon: assets/favicon.ico
-# github:
-#   repository_url: "https://github.com/prisms-center/CASMcode"
+teaser: /assets/images/logo.png
+logo: /assets/images/small_logo.png
+favicon: assets/favicon.ico
+github:
+  repository_url: "https://github.com/prisms-center/CASMcode"
 
 plugins:
   - jekyll-relative-links
