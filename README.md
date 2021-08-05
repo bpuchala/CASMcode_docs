@@ -20,3 +20,7 @@ To run (from repo root directory):
 Open in browser:
 
 - http://localhost:4000
+
+Other notes:
+
+- Code block copy button from [here](https://remarkablemark.org/blog/2021/06/01/add-copy-code-to-clipboard-button-to-jeyll-site/).
